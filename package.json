@@ -9,6 +9,7 @@
   "author": "Destin Moulton",
   "license": "MIT",
   "dependencies": {
+    "node-fetch": "^3.2.3",
     "node-wget": "^0.4.3"
   }
 }
