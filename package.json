@@ -1,0 +1,14 @@
+{
+  "name": "benchwget",
+  "version": "0.0.1",
+  "description": "Benchmark a bunch of wget requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Destin Moulton",
+  "license": "MIT",
+  "dependencies": {
+    "node-wget": "^0.4.3"
+  }
+}
